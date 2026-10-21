@@ -16,11 +16,11 @@
 
 ## 👋 About me
 
-I'm **Fakhar Zaman**, a Computer Science graduate from **COMSATS University Islamabad** with a **3.65 / 4.00 CGPA**. I focus on applying AI and data science to practical challenges, building machine learning applications and data-driven systems that turn complex information into useful outcomes.
+I'm **Fakhar Zaman**, a Computer Science graduate focused on applying AI and data science to practical challenges. I focus on applying AI and data science to practical challenges, building machine learning applications and data-driven systems that turn complex information into useful outcomes.
 
 My project work spans computer vision, natural language processing, forecasting, and application development. I have built an image-based plant disease detection application, sentiment classification and BERT-based named-entity recognition projects, along with database-backed desktop software and an Arduino obstacle-avoidance project. I’m currently deepening my skills in **deep learning and agentic AI** and seeking opportunities to contribute to applied AI and data science work.
 
-📍 Islamabad, Pakistan · 🌐 [Portfolio](https://www.fakharzamankhan.me)
+🌐 [Portfolio](https://www.fakharzamankhan.me)
 
 ## 🎯 Focus areas
 
@@ -156,3 +156,4 @@ For AI, data science, or project opportunities, [get in touch](mailto:fakharzama
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,55:12314a,100:0b1728&height=100&section=footer" width="100%" alt="">
 
 </div>
+
