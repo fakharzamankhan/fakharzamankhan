@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-I'm **Fakhar Zaman**, a Computer Science graduate focused on applying AI and data science to practical challenges. I focus on applying AI and data science to practical challenges, building machine learning applications and data-driven systems that turn complex information into useful outcomes.
+I'm **Fakhar Zaman**, a Computer Science graduate focused on artificial intelligence and data science. I develop practical machine learning applications and data-driven systems that translate complex information into clear, useful outcomes. 
 
 My project work spans computer vision, natural language processing, forecasting, and application development. I have built an image-based plant disease detection application, sentiment classification and BERT-based named-entity recognition projects, along with database-backed desktop software and an Arduino obstacle-avoidance project. I’m currently deepening my skills in **deep learning and agentic AI** and seeking opportunities to contribute to applied AI and data science work.
 
